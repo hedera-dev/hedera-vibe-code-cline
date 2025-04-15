@@ -1,0 +1,19 @@
+{
+  "name": "hedera-vibe-code-cline",
+  "version": "0.0.0",
+  "description": "A template for Hedera vibe coders using Cline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vibecode",
+    "cline",
+    "hedera"
+  ],
+  "author": "bguiz",
+  "license": "MIT",
+  "dependencies": {
+    "@hashgraph/sdk": "2.62.0"
+  }
+}
